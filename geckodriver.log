@@ -1,0 +1,85 @@
+1536767115038	geckodriver	INFO	geckodriver 0.21.0
+1536767115049	geckodriver	INFO	Listening on 127.0.0.1:49465
+1536767118078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stein\\AppData\\Local\\Temp\\rust_mozprofile.N5fUb7MzZC5E"
+1536767122389	Marionette	INFO	Listening on port 49477
+1536767122425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536767122464	Marionette	DEBUG	[6442450945] Frame script loaded
+1536767122483	Marionette	DEBUG	[6442450945] Frame script registered
+1536767122630	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536767134272	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+1536767135531	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1536767135673	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1536767138102	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+1536767142750	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1536767143388	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1536767143403	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1536767143446	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+1536767143673	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/buddhism__/
+1536767154116	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/buddhism__/
+1536767157477	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+[Parent 1688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[Chhiild 12ld 18912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18912, Chrome_Ch[Child 3892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3892, Chrome1536767224536	Marionette	INFO	Stopped listening on port 49477
+[GPU 14248, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536775109490	geckodriver	INFO	geckodriver 0.21.0
+1536775109510	geckodriver	INFO	Listening on 127.0.0.1:63284
+1536775112535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stein\\AppData\\Local\\Temp\\rust_mozprofile.ONS9rh336PWQ"
+1536775117612	Marionette	INFO	Listening on port 63292
+1536775117963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536775118003	Marionette	DEBUG	[6442450945] Frame script loaded
+1536775118004	Marionette	DEBUG	[6442450945] Frame script registered
+1536775118028	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536775129668	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+1536775130594	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1536775130908	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1536775133178	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+1536775137406	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1536775137755	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1536775137762	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1536775137801	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/435e8d0ca770.js, line 1: unreachable code after return statement
+1536775138063	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/buddhism__/
+1536775138805	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/buddhism__/
+1536775142180	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 16984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11200, Chrom[Ceh_ChildThrild 3508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3508, Chrome_Ch[Parent 16984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 441536775158273	Marionette	INFO	Stopped listening on port 63292
+[GPU 16552, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
